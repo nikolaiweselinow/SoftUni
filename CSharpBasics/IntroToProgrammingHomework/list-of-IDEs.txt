@@ -1,0 +1,30 @@
+Microsoft Visual Studio- Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
+ It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services.
+ Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce
+ both native code and managed code.Visual Studio includes a code editor supporting IntelliSense as well as code refactoring. The integrated debugger works both as a 
+source-level debugger and a machine-level debugger.
+
+JAVA - It contains a base workspace and an extensible plug-in system for customizing the environment. 
+Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins,
+Eclipse may also be used to develop applications in other programming languages: 
+Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby 
+(including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang.
+
+NetBeans - An intuitive, drag-and-drop interface with project templates, binary and static libraries, 
+and many useful functions to make your life simpler, NetBeans is a popular IDE for C and C++ projects.
+There are also multiple NetBeans Enterprise IDE Download Bundles with options that support several additional technologies,
+including Java, PHP, HTML5 and more.
+
+Code::Blocks - extensible and fully configurable IDE designed to support its users most demanding needs, 
+supports C, C++ and Fortran. It provides a consistent look, feel and operation across all platforms for seamless 
+transitions between work spaces, and it’s built around a plug-in framework, providing a multitude of options for extension. 
+It’s open-source and offers cross-platform functionality.
+
+Komodo -  is a comprehensive IDE that supports all major programming languages, providing a single tool that 
+meets your development needs across the spectrum. Whether you’re working with Python, PHP, Ruby, Perl, HTML, CSS or JavaScript,
+Komodo provides a clean, intuitive interface with advanced editing capabilities and integrated tools for the most functionality.
+
+Aptana - Aptana Studio is an open source integrated development environment (IDE) for building Ajax web applications. 
+Based on Eclipse, it supports JavaScript, HTML, DOM and CSS with code-completion, outlining, JavaScript debugging, 
+error and warning notifications and integrated documentation. Additional plugins allow Aptana Studio to support Ruby on Rails, 
+PHP, Python, Perl,[1] Adobe AIR, Apple iPhone and Nokia WRT (Web Runtime).
