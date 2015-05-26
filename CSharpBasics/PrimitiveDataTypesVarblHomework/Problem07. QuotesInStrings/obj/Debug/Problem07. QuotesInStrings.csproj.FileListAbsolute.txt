@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem07. QuotesInStrings\bin\Debug\Problem07.QuotesInStrings.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem07. QuotesInStrings\bin\Debug\Problem07.QuotesInStrings.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem07. QuotesInStrings\bin\Debug\Problem07.QuotesInStrings.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem07. QuotesInStrings\obj\Debug\Problem07.QuotesInStrings.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem07. QuotesInStrings\obj\Debug\Problem07.QuotesInStrings.pdb

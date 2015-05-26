@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem02. FloatOrDouble\bin\Debug\Problem02.FloatOrDouble.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem02. FloatOrDouble\bin\Debug\Problem02.FloatOrDouble.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem02. FloatOrDouble\bin\Debug\Problem02.FloatOrDouble.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem02. FloatOrDouble\obj\Debug\Problem02.FloatOrDouble.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem02. FloatOrDouble\obj\Debug\Problem02.FloatOrDouble.pdb

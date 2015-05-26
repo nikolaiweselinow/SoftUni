@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem04. UnicodeCharacter\bin\Debug\Problem04.UnicodeCharacter.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem04. UnicodeCharacter\bin\Debug\Problem04.UnicodeCharacter.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem04. UnicodeCharacter\bin\Debug\Problem04.UnicodeCharacter.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem04. UnicodeCharacter\obj\Debug\Problem04.UnicodeCharacter.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem04. UnicodeCharacter\obj\Debug\Problem04.UnicodeCharacter.pdb

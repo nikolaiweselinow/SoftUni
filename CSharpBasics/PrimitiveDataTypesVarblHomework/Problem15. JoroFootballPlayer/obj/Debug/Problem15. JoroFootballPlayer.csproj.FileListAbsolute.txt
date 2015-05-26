@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem15. JoroFootballPlayer\bin\Debug\Problem15.JoroFootballPlayer.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem15. JoroFootballPlayer\bin\Debug\Problem15.JoroFootballPlayer.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem15. JoroFootballPlayer\bin\Debug\Problem15.JoroFootballPlayer.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem15. JoroFootballPlayer\obj\Debug\Problem15.JoroFootballPlayer.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem15. JoroFootballPlayer\obj\Debug\Problem15.JoroFootballPlayer.pdb

@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem14. PrintTheASCIITable\bin\Debug\Problem14.PrintTheASCIITable.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem14. PrintTheASCIITable\bin\Debug\Problem14.PrintTheASCIITable.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem14. PrintTheASCIITable\bin\Debug\Problem14.PrintTheASCIITable.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem14. PrintTheASCIITable\obj\Debug\Problem14. PrintTheASCIITable.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem14. PrintTheASCIITable\obj\Debug\Problem14.PrintTheASCIITable.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem14. PrintTheASCIITable\obj\Debug\Problem14.PrintTheASCIITable.pdb
