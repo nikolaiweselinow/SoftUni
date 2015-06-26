@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01. Traveller Bob\bin\Debug\Problem01.Traveller_Bob.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01. Traveller Bob\bin\Debug\Problem01.Traveller_Bob.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01. Traveller Bob\bin\Debug\Problem01.Traveller_Bob.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01. Traveller Bob\obj\Debug\Problem01. Traveller Bob.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01. Traveller Bob\obj\Debug\Problem01.Traveller_Bob.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01. Traveller Bob\obj\Debug\Problem01.Traveller_Bob.pdb

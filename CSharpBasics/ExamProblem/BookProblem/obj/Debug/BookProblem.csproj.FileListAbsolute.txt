@@ -1,0 +1,12 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\BookProblem\bin\Debug\BookProblem.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\BookProblem\bin\Debug\BookProblem.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\BookProblem\bin\Debug\BookProblem.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\BookProblem\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\BookProblem\obj\Debug\BookProblem.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\BookProblem\obj\Debug\BookProblem.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\BookProblem\bin\Debug\BookProblem.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\BookProblem\obj\Debug\BookProblem.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\BookProblem\obj\Debug\BookProblem.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\BookProblem\bin\Debug\BookProblem.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\BookProblem\bin\Debug\BookProblem.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\BookProblem\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache

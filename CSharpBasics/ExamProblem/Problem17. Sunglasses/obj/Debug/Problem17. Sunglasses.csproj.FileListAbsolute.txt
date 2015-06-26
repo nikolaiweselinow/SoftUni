@@ -1,0 +1,9 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem17. Sunglasses\bin\Debug\Problem17.Sunglasses.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem17. Sunglasses\bin\Debug\Problem17.Sunglasses.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem17. Sunglasses\bin\Debug\Problem17.Sunglasses.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem17. Sunglasses\obj\Debug\Problem17.Sunglasses.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem17. Sunglasses\obj\Debug\Problem17.Sunglasses.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem17. Sunglasses\obj\Debug\Problem17. Sunglasses.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem17. Sunglasses\bin\Debug\Problem17.Sunglasses.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem17. Sunglasses\obj\Debug\Problem17.Sunglasses.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem17. Sunglasses\obj\Debug\Problem17.Sunglasses.pdb

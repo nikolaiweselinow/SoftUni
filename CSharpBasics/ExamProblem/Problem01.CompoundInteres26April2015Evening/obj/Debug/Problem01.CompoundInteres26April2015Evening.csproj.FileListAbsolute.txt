@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.CompoundInteres26April2015Evening\bin\Debug\Problem01.CompoundInteres26April2015Evening.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.CompoundInteres26April2015Evening\bin\Debug\Problem01.CompoundInteres26April2015Evening.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.CompoundInteres26April2015Evening\bin\Debug\Problem01.CompoundInteres26April2015Evening.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.CompoundInteres26April2015Evening\obj\Debug\Problem01.CompoundInteres26April2015Evening.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.CompoundInteres26April2015Evening\obj\Debug\Problem01.CompoundInteres26April2015Evening.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.CompoundInteres26April2015Evening\obj\Debug\Problem01.CompoundInteres26April2015Evening.pdb

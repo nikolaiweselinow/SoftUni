@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. House\bin\Debug\Problem03.House.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. House\bin\Debug\Problem03.House.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. House\bin\Debug\Problem03.House.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. House\obj\Debug\Problem03. House.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. House\obj\Debug\Problem03.House.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. House\obj\Debug\Problem03.House.pdb

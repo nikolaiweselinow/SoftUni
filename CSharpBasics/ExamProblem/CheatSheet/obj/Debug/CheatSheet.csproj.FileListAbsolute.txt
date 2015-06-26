@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\CheatSheet\bin\Debug\CheatSheet.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\CheatSheet\bin\Debug\CheatSheet.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\CheatSheet\bin\Debug\CheatSheet.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\CheatSheet\obj\Debug\CheatSheet.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\CheatSheet\obj\Debug\CheatSheet.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\CheatSheet\obj\Debug\CheatSheet.pdb

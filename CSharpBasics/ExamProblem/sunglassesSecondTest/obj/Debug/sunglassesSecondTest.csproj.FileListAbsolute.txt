@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\sunglassesSecondTest\bin\Debug\sunglassesSecondTest.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\sunglassesSecondTest\bin\Debug\sunglassesSecondTest.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\sunglassesSecondTest\bin\Debug\sunglassesSecondTest.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\sunglassesSecondTest\obj\Debug\sunglassesSecondTest.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\sunglassesSecondTest\obj\Debug\sunglassesSecondTest.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\sunglassesSecondTest\obj\Debug\sunglassesSecondTest.pdb

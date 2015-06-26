@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. PandaScotlandFlag\bin\Debug\Problem03.PandaScotlandFlag.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. PandaScotlandFlag\bin\Debug\Problem03.PandaScotlandFlag.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. PandaScotlandFlag\bin\Debug\Problem03.PandaScotlandFlag.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. PandaScotlandFlag\obj\Debug\Problem03. PandaScotlandFlag.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. PandaScotlandFlag\obj\Debug\Problem03.PandaScotlandFlag.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. PandaScotlandFlag\obj\Debug\Problem03.PandaScotlandFlag.pdb

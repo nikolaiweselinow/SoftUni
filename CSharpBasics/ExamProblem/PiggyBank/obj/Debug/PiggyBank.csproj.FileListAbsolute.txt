@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\PiggyBank\bin\Debug\PiggyBank.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\PiggyBank\bin\Debug\PiggyBank.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\PiggyBank\bin\Debug\PiggyBank.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\PiggyBank\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\PiggyBank\obj\Debug\PiggyBank.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\PiggyBank\obj\Debug\PiggyBank.pdb

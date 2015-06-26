@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem04. ArrayMatcher\bin\Debug\Problem04.ArrayMatcher.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem04. ArrayMatcher\bin\Debug\Problem04.ArrayMatcher.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem04. ArrayMatcher\bin\Debug\Problem04.ArrayMatcher.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem04. ArrayMatcher\obj\Debug\Problem04. ArrayMatcher.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem04. ArrayMatcher\obj\Debug\Problem04.ArrayMatcher.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem04. ArrayMatcher\obj\Debug\Problem04.ArrayMatcher.pdb

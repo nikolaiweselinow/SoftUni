@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Sunlight26April2015Evening\bin\Debug\Problem03.Sunlight26April2015Evening.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Sunlight26April2015Evening\bin\Debug\Problem03.Sunlight26April2015Evening.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Sunlight26April2015Evening\bin\Debug\Problem03.Sunlight26April2015Evening.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Sunlight26April2015Evening\obj\Debug\Problem03.Sunlight26April2015Evening.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Sunlight26April2015Evening\obj\Debug\Problem03.Sunlight26April2015Evening.pdb

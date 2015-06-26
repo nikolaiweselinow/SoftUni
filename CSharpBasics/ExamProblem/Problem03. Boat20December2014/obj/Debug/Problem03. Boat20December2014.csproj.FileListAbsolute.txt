@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Boat20December2014\bin\Debug\Problem03.Boat20December2014.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Boat20December2014\bin\Debug\Problem03.Boat20December2014.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Boat20December2014\bin\Debug\Problem03.Boat20December2014.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Boat20December2014\obj\Debug\Problem03.Boat20December2014.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Boat20December2014\obj\Debug\Problem03.Boat20December2014.pdb
