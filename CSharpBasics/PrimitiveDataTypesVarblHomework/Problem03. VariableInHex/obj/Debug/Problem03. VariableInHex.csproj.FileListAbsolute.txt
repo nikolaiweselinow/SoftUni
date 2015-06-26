@@ -1,5 +1,0 @@
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem03. VariableInHex\bin\Debug\Problem03.VariableInHex.exe.config
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem03. VariableInHex\bin\Debug\Problem03.VariableInHex.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem03. VariableInHex\bin\Debug\Problem03.VariableInHex.pdb
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem03. VariableInHex\obj\Debug\Problem03.VariableInHex.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem03. VariableInHex\obj\Debug\Problem03.VariableInHex.pdb

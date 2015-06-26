@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem22.Arrow\bin\Debug\Problem22.Arrow.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem22.Arrow\bin\Debug\Problem22.Arrow.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem22.Arrow\bin\Debug\Problem22.Arrow.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem22.Arrow\obj\Debug\Problem22.Arrow.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem22.Arrow\obj\Debug\Problem22.Arrow.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem22.Arrow\obj\Debug\Problem22.Arrow.pdb

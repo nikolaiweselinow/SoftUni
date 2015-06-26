@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\bin\Debug\Problem21.OddEvenElements.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\bin\Debug\Problem21.OddEvenElements.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\bin\Debug\Problem21.OddEvenElements.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\obj\Debug\Problem21.OddEvenElements.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\obj\Debug\Problem21.OddEvenElements.pdb

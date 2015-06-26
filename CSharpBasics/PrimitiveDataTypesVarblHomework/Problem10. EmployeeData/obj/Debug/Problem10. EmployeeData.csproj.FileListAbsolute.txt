@@ -1,5 +1,0 @@
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem10. EmployeeData\bin\Debug\Problem10.EmployeeData.exe.config
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem10. EmployeeData\bin\Debug\Problem10.EmployeeData.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem10. EmployeeData\bin\Debug\Problem10.EmployeeData.pdb
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem10. EmployeeData\obj\Debug\Problem10.EmployeeData.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem10. EmployeeData\obj\Debug\Problem10.EmployeeData.pdb

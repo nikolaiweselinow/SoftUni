@@ -1,5 +1,0 @@
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem08. IsoscelesTriangle\bin\Debug\Problem08.IsoscelesTriangle.exe.config
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem08. IsoscelesTriangle\bin\Debug\Problem08.IsoscelesTriangle.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem08. IsoscelesTriangle\bin\Debug\Problem08.IsoscelesTriangle.pdb
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem08. IsoscelesTriangle\obj\Debug\Problem08.IsoscelesTriangle.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem08. IsoscelesTriangle\obj\Debug\Problem08.IsoscelesTriangle.pdb

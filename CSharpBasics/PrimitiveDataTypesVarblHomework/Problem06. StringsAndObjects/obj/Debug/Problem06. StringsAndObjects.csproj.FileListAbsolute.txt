@@ -1,5 +1,0 @@
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem06. StringsAndObjects\bin\Debug\Problem06.StringsAndObjects.exe.config
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem06. StringsAndObjects\bin\Debug\Problem06.StringsAndObjects.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem06. StringsAndObjects\bin\Debug\Problem06.StringsAndObjects.pdb
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem06. StringsAndObjects\obj\Debug\Problem06.StringsAndObjects.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem06. StringsAndObjects\obj\Debug\Problem06.StringsAndObjects.pdb

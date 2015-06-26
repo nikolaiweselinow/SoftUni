@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem03.MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem03.MinMaxSumAndAverageOfNNumbers.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem03.MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem03.MinMaxSumAndAverageOfNNumbers.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem03.MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem03.MinMaxSumAndAverageOfNNumbers.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem03.MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem03.MinMaxSumAndAverageOfNNumbers.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem03.MinMaxSumAndAverageOfNNumbers\obj\Debug\Problem03.MinMaxSumAndAverageOfNNumbers.pdb

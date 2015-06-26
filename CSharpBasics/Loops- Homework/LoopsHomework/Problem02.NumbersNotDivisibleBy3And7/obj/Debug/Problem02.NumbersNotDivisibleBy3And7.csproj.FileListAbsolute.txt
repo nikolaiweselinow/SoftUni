@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem02.NumbersNotDivisibleBy3And7\bin\Debug\Problem02.NumbersNotDivisibleBy3And7.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem02.NumbersNotDivisibleBy3And7\bin\Debug\Problem02.NumbersNotDivisibleBy3And7.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem02.NumbersNotDivisibleBy3And7\bin\Debug\Problem02.NumbersNotDivisibleBy3And7.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem02.NumbersNotDivisibleBy3And7\obj\Debug\Problem02.NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem02.NumbersNotDivisibleBy3And7\obj\Debug\Problem02.NumbersNotDivisibleBy3And7.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem02.NumbersNotDivisibleBy3And7\obj\Debug\Problem02.NumbersNotDivisibleBy3And7.pdb

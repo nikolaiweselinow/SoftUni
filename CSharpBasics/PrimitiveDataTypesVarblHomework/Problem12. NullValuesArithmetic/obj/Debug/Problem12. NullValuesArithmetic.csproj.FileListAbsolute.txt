@@ -1,5 +1,0 @@
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem12. NullValuesArithmetic\bin\Debug\Problem12.NullValuesArithmetic.exe.config
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem12. NullValuesArithmetic\bin\Debug\Problem12.NullValuesArithmetic.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem12. NullValuesArithmetic\bin\Debug\Problem12.NullValuesArithmetic.pdb
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem12. NullValuesArithmetic\obj\Debug\Problem12.NullValuesArithmetic.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem12. NullValuesArithmetic\obj\Debug\Problem12.NullValuesArithmetic.pdb

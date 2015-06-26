@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\bin\Debug\Problem04.PrintADeckOf52Cards.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\bin\Debug\Problem04.PrintADeckOf52Cards.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\bin\Debug\Problem04.PrintADeckOf52Cards.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.pdb

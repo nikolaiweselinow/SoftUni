@@ -1,6 +1,0 @@
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem13. ComparingFloats\bin\Debug\Problem13.ComparingFloats.exe.config
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem13. ComparingFloats\bin\Debug\Problem13.ComparingFloats.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem13. ComparingFloats\bin\Debug\Problem13.ComparingFloats.pdb
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem13. ComparingFloats\obj\Debug\Problem13. ComparingFloats.csprojResolveAssemblyReference.cache
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem13. ComparingFloats\obj\Debug\Problem13.ComparingFloats.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem13. ComparingFloats\obj\Debug\Problem13.ComparingFloats.pdb

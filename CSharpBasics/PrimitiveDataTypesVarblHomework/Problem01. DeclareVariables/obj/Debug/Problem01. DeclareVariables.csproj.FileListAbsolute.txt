@@ -1,6 +1,0 @@
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem01. DeclareVariables\bin\Debug\Problem01.DeclareVariables.exe.config
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem01. DeclareVariables\bin\Debug\Problem01.DeclareVariables.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem01. DeclareVariables\bin\Debug\Problem01.DeclareVariables.pdb
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem01. DeclareVariables\obj\Debug\Problem01. DeclareVariables.csprojResolveAssemblyReference.cache
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem01. DeclareVariables\obj\Debug\Problem01.DeclareVariables.exe
-E:\Nikki\SoftUni\CShaprPart1\Homeworks\Primitive-Data-Types-and-Variables-Homework\PrimitiveDataTypesVarblHomework\Problem01. DeclareVariables\obj\Debug\Problem01.DeclareVariables.pdb
