@@ -4,3 +4,6 @@ E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem01.N
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem01.NumbersFrom1ToN\obj\Debug\Problem01.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem01.NumbersFrom1ToN\obj\Debug\Problem01.NumbersFrom1ToN.exe
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem01.NumbersFrom1ToN\obj\Debug\Problem01.NumbersFrom1ToN.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem01.NumbersFrom1ToN\bin\Debug\Problem01.NumbersFrom1ToN.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem01.NumbersFrom1ToN\obj\Debug\Problem01.NumbersFrom1ToN.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem01.NumbersFrom1ToN\obj\Debug\Problem01.NumbersFrom1ToN.pdb

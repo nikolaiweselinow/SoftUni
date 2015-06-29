@@ -1,0 +1,5 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem15.HexadecimalToDecimalNumber\bin\Debug\Problem15.HexadecimalToDecimalNumber.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem15.HexadecimalToDecimalNumber\bin\Debug\Problem15.HexadecimalToDecimalNumber.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem15.HexadecimalToDecimalNumber\bin\Debug\Problem15.HexadecimalToDecimalNumber.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem15.HexadecimalToDecimalNumber\obj\Debug\Problem15.HexadecimalToDecimalNumber.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem15.HexadecimalToDecimalNumber\obj\Debug\Problem15.HexadecimalToDecimalNumber.pdb

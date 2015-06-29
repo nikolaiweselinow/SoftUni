@@ -1,0 +1,5 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem20.ExamSchedule\bin\Debug\Problem20.ExamSchedule.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem20.ExamSchedule\bin\Debug\Problem20.ExamSchedule.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem20.ExamSchedule\bin\Debug\Problem20.ExamSchedule.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem20.ExamSchedule\obj\Debug\Problem20.ExamSchedule.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem20.ExamSchedule\obj\Debug\Problem20.ExamSchedule.pdb

@@ -9,17 +9,14 @@ class MatrixOfNumbers
 
         int n = int.Parse(Console.ReadLine());
 
-        for (int i = 1; i <= n; i++)
+        for (int row = 0; row < n; row++)
         {
-            Console.WriteLine(i + " ");
-
-            for (int j = 2; j <= n; j++)
+            for (int col = 1; col <= n; col++)
             {
-                Console.Write(j + " ");
+                Console.Write("{0, -2}", row + col);
             }
-            
+            Console.WriteLine();
         }
-        Console.WriteLine();
     }
 }
 

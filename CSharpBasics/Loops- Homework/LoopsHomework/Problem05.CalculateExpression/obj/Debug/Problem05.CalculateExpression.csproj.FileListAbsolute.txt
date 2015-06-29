@@ -1,0 +1,5 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem05.CalculateExpression\bin\Debug\Problem05.CalculateExpression.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem05.CalculateExpression\bin\Debug\Problem05.CalculateExpression.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem05.CalculateExpression\bin\Debug\Problem05.CalculateExpression.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem05.CalculateExpression\obj\Debug\Problem05.CalculateExpression.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem05.CalculateExpression\obj\Debug\Problem05.CalculateExpression.pdb

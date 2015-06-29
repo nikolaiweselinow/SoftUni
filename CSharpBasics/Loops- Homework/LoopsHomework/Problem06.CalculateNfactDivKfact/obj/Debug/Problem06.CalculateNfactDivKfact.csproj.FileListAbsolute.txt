@@ -1,0 +1,5 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem06.CalculateNfactDivKfact\bin\Debug\Problem06.CalculateNfactDivKfact.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem06.CalculateNfactDivKfact\bin\Debug\Problem06.CalculateNfactDivKfact.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem06.CalculateNfactDivKfact\bin\Debug\Problem06.CalculateNfactDivKfact.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem06.CalculateNfactDivKfact\obj\Debug\Problem06.CalculateNfactDivKfact.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem06.CalculateNfactDivKfact\obj\Debug\Problem06.CalculateNfactDivKfact.pdb

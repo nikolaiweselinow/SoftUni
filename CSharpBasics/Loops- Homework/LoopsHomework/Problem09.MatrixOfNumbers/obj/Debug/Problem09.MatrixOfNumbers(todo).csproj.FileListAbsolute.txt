@@ -1,0 +1,5 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem09.MatrixOfNumbers\bin\Debug\Problem09.MatrixOfNumbers.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem09.MatrixOfNumbers\obj\Debug\Problem09.MatrixOfNumbers.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem09.MatrixOfNumbers\obj\Debug\Problem09.MatrixOfNumbers.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem09.MatrixOfNumbers\bin\Debug\Problem09.MatrixOfNumbers.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem09.MatrixOfNumbers\bin\Debug\Problem09.MatrixOfNumbers.pdb

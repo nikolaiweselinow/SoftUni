@@ -1,0 +1,6 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem11.RandomNumbersInGivenRange\bin\Debug\Problem11.RandomNumbersInGivenRange.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem11.RandomNumbersInGivenRange\bin\Debug\Problem11.RandomNumbersInGivenRange.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem11.RandomNumbersInGivenRange\bin\Debug\Problem11.RandomNumbersInGivenRange.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem11.RandomNumbersInGivenRange\obj\Debug\Problem11.RandomNumbersInGivenRange.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem11.RandomNumbersInGivenRange\obj\Debug\Problem11.RandomNumbersInGivenRange.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem11.RandomNumbersInGivenRange\obj\Debug\Problem11.RandomNumbersInGivenRange.csprojResolveAssemblyReference.cache

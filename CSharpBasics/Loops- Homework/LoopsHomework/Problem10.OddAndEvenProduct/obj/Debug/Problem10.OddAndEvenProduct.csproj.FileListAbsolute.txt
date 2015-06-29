@@ -1,0 +1,6 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem10.OddAndEvenProduct\bin\Debug\Problem10.OddAndEvenProduct.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem10.OddAndEvenProduct\bin\Debug\Problem10.OddAndEvenProduct.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem10.OddAndEvenProduct\bin\Debug\Problem10.OddAndEvenProduct.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem10.OddAndEvenProduct\obj\Debug\Problem10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem10.OddAndEvenProduct\obj\Debug\Problem10.OddAndEvenProduct.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem10.OddAndEvenProduct\obj\Debug\Problem10.OddAndEvenProduct.pdb

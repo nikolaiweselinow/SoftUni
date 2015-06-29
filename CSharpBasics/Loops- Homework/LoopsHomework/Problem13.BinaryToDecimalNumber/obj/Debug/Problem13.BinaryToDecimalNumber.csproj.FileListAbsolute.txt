@@ -1,0 +1,6 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem13.BinaryToDecimalNumber\bin\Debug\Problem13.BinaryToDecimalNumber.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem13.BinaryToDecimalNumber\bin\Debug\Problem13.BinaryToDecimalNumber.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem13.BinaryToDecimalNumber\bin\Debug\Problem13.BinaryToDecimalNumber.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem13.BinaryToDecimalNumber\obj\Debug\Problem13.BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem13.BinaryToDecimalNumber\obj\Debug\Problem13.BinaryToDecimalNumber.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem13.BinaryToDecimalNumber\obj\Debug\Problem13.BinaryToDecimalNumber.pdb

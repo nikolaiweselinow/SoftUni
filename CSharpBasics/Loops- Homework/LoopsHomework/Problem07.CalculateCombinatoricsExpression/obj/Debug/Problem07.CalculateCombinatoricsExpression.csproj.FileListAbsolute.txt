@@ -1,0 +1,5 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem07.CalculateCombinatoricsExpression\bin\Debug\Problem07.CalculateCombinatoricsExpression.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem07.CalculateCombinatoricsExpression\bin\Debug\Problem07.CalculateCombinatoricsExpression.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem07.CalculateCombinatoricsExpression\bin\Debug\Problem07.CalculateCombinatoricsExpression.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem07.CalculateCombinatoricsExpression\obj\Debug\Problem07.CalculateCombinatoricsExpression.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem07.CalculateCombinatoricsExpression\obj\Debug\Problem07.CalculateCombinatoricsExpression.pdb

@@ -4,3 +4,9 @@ E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.P
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.exe
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\bin\Debug\Problem04.PrintADeckOf52Cards.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\bin\Debug\Problem04.PrintADeckOf52Cards.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\bin\Debug\Problem04.PrintADeckOf52Cards.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem04.PrintADeckOf52Cards\obj\Debug\Problem04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache

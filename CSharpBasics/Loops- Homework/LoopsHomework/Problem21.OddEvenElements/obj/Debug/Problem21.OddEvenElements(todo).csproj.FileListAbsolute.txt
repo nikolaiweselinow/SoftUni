@@ -1,3 +1,6 @@
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\bin\Debug\Problem21.OddEvenElements.exe.config
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\obj\Debug\Problem21.OddEvenElements.exe
 E:\Nikki\SoftUni\CShaprPart1\Homeworks\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\obj\Debug\Problem21.OddEvenElements.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\bin\Debug\Problem21.OddEvenElements.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\obj\Debug\Problem21.OddEvenElements.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem21.OddEvenElements\obj\Debug\Problem21.OddEvenElements.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem12.RandomizeTheNumbers1toN\bin\Debug\Problem12.RandomizeTheNumbers1toN.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem12.RandomizeTheNumbers1toN\bin\Debug\Problem12.RandomizeTheNumbers1toN.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem12.RandomizeTheNumbers1toN\bin\Debug\Problem12.RandomizeTheNumbers1toN.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem12.RandomizeTheNumbers1toN\obj\Debug\Problem12.RandomizeTheNumbers1toN.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem12.RandomizeTheNumbers1toN\obj\Debug\Problem12.RandomizeTheNumbers1toN.pdb

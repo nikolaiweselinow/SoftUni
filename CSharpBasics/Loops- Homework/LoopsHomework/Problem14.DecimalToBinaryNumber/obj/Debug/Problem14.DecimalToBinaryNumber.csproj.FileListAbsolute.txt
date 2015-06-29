@@ -1,0 +1,5 @@
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem14.DecimalToBinaryNumber\bin\Debug\Problem14.DecimalToBinaryNumber.exe.config
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem14.DecimalToBinaryNumber\bin\Debug\Problem14.DecimalToBinaryNumber.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem14.DecimalToBinaryNumber\bin\Debug\Problem14.DecimalToBinaryNumber.pdb
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem14.DecimalToBinaryNumber\obj\Debug\Problem14.DecimalToBinaryNumber.exe
+C:\Users\Nikki\Desktop\SOFTWARE_UNIVERSITY\HW\Loops- Homework\LoopsHomework\Problem14.DecimalToBinaryNumber\obj\Debug\Problem14.DecimalToBinaryNumber.pdb
