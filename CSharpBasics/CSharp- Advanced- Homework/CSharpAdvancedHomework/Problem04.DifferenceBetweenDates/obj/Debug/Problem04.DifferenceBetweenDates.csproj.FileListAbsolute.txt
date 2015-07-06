@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem04.DifferenceBetweenDates\bin\Debug\Problem04.DifferenceBetweenDates.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem04.DifferenceBetweenDates\bin\Debug\Problem04.DifferenceBetweenDates.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem04.DifferenceBetweenDates\bin\Debug\Problem04.DifferenceBetweenDates.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem04.DifferenceBetweenDates\obj\Debug\Problem04.DifferenceBetweenDates.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem04.DifferenceBetweenDates\obj\Debug\Problem04.DifferenceBetweenDates.pdb

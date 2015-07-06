@@ -1,0 +1,1 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem16.CountingAWordInAText\bin\Debug\Problem16.CountingAWordInAText.exe.config

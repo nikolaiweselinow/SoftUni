@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem19.StudentCables\bin\Debug\Problem19.StudentCables.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem19.StudentCables\bin\Debug\Problem19.StudentCables.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem19.StudentCables\bin\Debug\Problem19.StudentCables.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem19.StudentCables\obj\Debug\Problem19.StudentCables.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem19.StudentCables\obj\Debug\Problem19.StudentCables.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem19.StudentCables\obj\Debug\Problem19.StudentCables.pdb

@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem05.SortingNumbers\bin\Debug\Problem05.SortingNumbers.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem05.SortingNumbers\bin\Debug\Problem05.SortingNumbers.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem05.SortingNumbers\bin\Debug\Problem05.SortingNumbers.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem05.SortingNumbers\obj\Debug\Problem05.SortingNumbers.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem05.SortingNumbers\obj\Debug\Problem05.SortingNumbers.pdb

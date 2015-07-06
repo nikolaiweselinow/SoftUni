@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem02.PrimeChecker\bin\Debug\Problem02.PrimeChecker.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem02.PrimeChecker\bin\Debug\Problem02.PrimeChecker.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem02.PrimeChecker\bin\Debug\Problem02.PrimeChecker.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem02.PrimeChecker\obj\Debug\Problem02.PrimeChecker.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem02.PrimeChecker\obj\Debug\Problem02.PrimeChecker.pdb

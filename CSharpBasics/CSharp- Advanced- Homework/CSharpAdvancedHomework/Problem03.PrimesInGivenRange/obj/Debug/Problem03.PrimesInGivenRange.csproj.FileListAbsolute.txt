@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem03.PrimesInGivenRange\bin\Debug\Problem03.PrimesInGivenRange.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem03.PrimesInGivenRange\bin\Debug\Problem03.PrimesInGivenRange.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem03.PrimesInGivenRange\bin\Debug\Problem03.PrimesInGivenRange.pdb
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem03.PrimesInGivenRange\obj\Debug\Problem03.PrimesInGivenRange.exe
+E:\Nikki\SoftUni\CShaprPart1\Homeworks\CSharp- Advanced- Homework\CSharpAdvancedHomework\Problem03.PrimesInGivenRange\obj\Debug\Problem03.PrimesInGivenRange.pdb
