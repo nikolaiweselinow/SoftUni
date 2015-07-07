@@ -1,0 +1,217 @@
+В TDS_Kernel.exe  (Application Layer - невидим слой)
+Добавяме DataSnap Server Module -  и го наименуване smuKambaBanks (Server Module Unit)
+Добавяме Delphi Data Module - и го наименуване srv_dmuKambaBanks
+Преименуваме имената на самите форми от Object Inspector.
+smuKambaBanks - Name : smKambaBanks; (махаме "u" от unit!)
+srv_dmuKambaBanks - Name : srv_dmKambaBanks;(махаме "u" от unit!)
+В долния uses който е под implementation- добавяме ресурси които се ползват, но не са приоритет при
+последователността.
+========================================================================
+В smuKambaBanks
+	uses 
+		srv_dmuKambaBanks, TonDSServerModule
+И променяме класът на обекта
+			TsmKambaBanks = class(TTonDSServerModule)
+Добавяме в
+	private
+		srv_dmKambaBanks: Tsrv_dmKambaBanks;
+		
+Добавяме в 
+	protected
+		procedure DoSetDataBases; override; (CTRL + SHIFT + C) да създадем тялото и в тялото имаме готова функция
+		SetupSQLConnectionParams(връзката към базата данни, името на базата данни)
+		Тази функция е от класът TTonDSServerModule. Тя е създадена автоматично да взема данните на клиента
+		(с кой сървър работи, база, кой поребител, парола)
+	procedure TsmKambaBanks.DoSetDataBases;
+begin
+  inherited;
+  SetupSQLConnectionParams(srv_dmKambaBanks.sqlc, DBName);
+end;	
+		
+		
+Тук си добавяме TonDataSetProvider това ни е моста между двата слоя
+Свързваме го към queryto na servera.. и на събитието Create на формата()
+всеки път като се създава да указва queryto към кой DataSetProvider е свързан
+
+dspBanks.DataSet := srv_dmKambaBanks.qBanks;
+и също създаваме srv_dmKambaBanks 
+srv_dmKambaBanks := Tsrv_dmKambaBanks.Create(Self);
+		
+========================================================================
+В srv_dmKambaBanks изтриваме
+	var
+		srv_dmKambaBanks: Tsrv_dmKambaBanks; 
+И го добавяме в private часта на smuKambaBanks
+
+Тук си добавяме TTonSrvSqlConnection и TSqlQuery
+TTonSrvSqlConnection
+	Driver: MSSQL
+	Database, UserName и Password можем да не пишем защото има метод DoSetDataBases (който е виртуален и го използваме
+	чрез override и ние си написваме наш код. написваме си го в smuKambaBanks в protected часта procedure DoSetDataBases; override; (CTRL + SHIFT + C)
+	SetupSQLConnectionParams(srv_dmKambaBanks.sqlc, DBName)) 
+TSqlQuery
+ Добавяме си заявката
+	В SELECT часта трябва да изброим необходимите полета. не ползваме звезда!
+	FROM table WITH(NOLOCK) - слага се защото понякога няколко човека могат да работят с едни и същи данни.
+	и ние ще можем да виждаме промените. (режим на четене)
+	ORDER BY Code - Винаги имаме ORDER BY по полето което добавяме в cds IndexFieldNames: Code;
+Добавяме ADD ALL FIELDS в заявката и променяме ProviderFlags от ObjectProperties...само за Code оставяме Update и Where
+За всички други премахваме Where (Where : false)
+
+=================================================================	
+В dmuKambaBanks
+Добавям:
+	TTonSqlConnection
+	TTonClientDataSet
+	TDataSource
+	TDSProviderConnection
+
+TTonSqlConnection
+	Name : sqlc (колкото се може по кратко и говорящо разбира се!)
+	Driver: DataSnap, Port: 8001
+	LoginPrompt : False;
+	SeverClassName : TsmKambaBanks;
+----------------------		
+TDSProviderConnection
+	Name : pc
+	SeverClassName : TsmKambaBanks;
+	SqlConnection : sqlc;
+----------------------
+TTonClientDataSet
+	Name: cdsKambaBanks;
+	IndexFieldNames: Code;
+	RemoteServer: pc;
+	Добавям всички полета, но за целта трябва да закоментарча в smuKambaBanks
+	//SetupSQLConnectionParams(srv_dmKambaBanks.sqlc, DBName);
+	да спра Services/TDS Kernel/Stop
+	и да компилирам TDS_Kernel.Exe (ДБ Compile) и после си пускам Servives
+	За целта също трябва да имам правилни данни в sqlc на srv_dmuKambaBanks!
+
+	След това оправям ProviderFlags на всики полета както следва:
+		Code : Оставям Updata и Where на TRUE! , другите са FALSE
+		Всички други полета: Само UPDATE : TRUE! , другите са FALSE
+		
+Ако искаме да добавим всички полета, трябва след Компилация на Kernela, после да пуснем services(Kernel).
+В TDS_Kernel
+изтриваме автоматичното създаване на формата/модула (или го закоментарчваме)
+// Application.CreateForm(Tsrv_dmNikiBanks, srv_dmNikiBanks);		
+
+За да можем да добавяме Кода на банката в edit-a трябва на cds/EVENT/AfterScroll
+да добавим :
+if cdsKambaBanks.State = dsBrowse then
+		TfKambaBanks(Owner).eKod.Text := cdsKambaBanksCode.AsString;
+------------------------------------------		
+За да можем да достъпваме компоненти от формата под implementation добавяме
+uses
+	KambaBanks
+------------------------------------------
+cds/Event/AfterPost
+procedure TdmKambaBanks.cdsKambaBanksAfterPost(DataSet: TDataSet);
+begin
+  cdsKambaBanks.ApplyUpdates(0);
+end;
+------------------------------------------
+cds/Event/AfterDelete - свързваме го със събитието AfterPost
+------------------------------------------
+cds/Event/OnReconcileError
+Копирам го от някоя друга форма, ако възникне грешка се отваря нова форма с информация за грешката!
+
+добавяме под implementation
+uses
+	TonRecError;
+	
+procedure TdmKambaBanks.cdsKambaBanksReconcileError(
+  DataSet: TCustomClientDataSet; E: EReconcileError; UpdateKind: TUpdateKind;
+  var Action: TReconcileAction);
+begin
+  Action := HandleReconcileError(DataSet, UpdateKind, E);
+end;
+
+		
+=================================================================
+При зареждане на формата KambaBanks
+На събитието OnShow отваряме cds
+procedure TfKambaBanks.TonBaseFormShow(Sender: TObject);
+begin
+  inherited;
+  dmKambaBanks.cdsKambaBanks.Open;
+end;
+
+Event/ActiveControl - избирам като се създаде формата кой компонент да ми е активен..(eKod)
+
+На събитието OnEnter на DbEDIT
+
+procedure TfKambaBanks.eKodEnter(Sender: TObject);
+begin
+  inherited;
+    with dmKambaBanks do begin
+    if cdsKambaBanks.Active then
+      cdsKambaBanks.Cancel;
+  end;
+
+
+  EnableActions(alBanks, [acDelete, acSearch, acNameSearch, acPartNameSearch, acPrint, acBankAccounts],
+                         [dmKambaBanks.cdsKambaBanks.RecordCount > 0]);  // acDelete
+end;
+
+==========================================
+Правя си още един ActionList за да мога да сложа shortcut на навигатора!
+на всичките Actioni които съм направил вътре EVENT/EXECUTe
+procedure TfKambaBanks.acFirstExecute(Sender: TObject);
+begin
+  inherited;
+  with nBanks.Buttons[(Sender as TAction).Index] do
+    if Enabled then
+      Click;
+end;
+
+
+===============================================
+EnableActions(actionList, [масив от actions],[масив от булеви стойности])
+- ако някой actions не присъства в изборените горе, следователно е false;
+EnableActions(actionList, acDelete,[true]) - ако присъства, задаваме true Или false. Ако не кажем true/false
+	и го оставим празно само [] то приема стойност true! - тук също можем да сложим и някаква условие на което да
+	отговаря Action-a и след това слагаме коментар за кой action се отнася... пример:
+EnableActions(alBanks, [acDelete, acPartNameSearch],
+                         [dmKambaBanks.cdsKambaBanks.RecordCount > 0]);  // acDelete
+						 
+===============================================
+В srvuKernel
+копирам компонент TDSServerClass
+name : scKambaBanks
+server : DSServer
+EVENT/OnGetClass: 
+	procedure TsrvKernel.scKambaBanksGetClass(DSServerClass: TDSServerClass;
+	  var PersistentClass: TPersistentClass);
+	begin
+	  inherited;
+	  PersistentClass := TsmKambaBanks;
+	end;
+	
+	
+===============================================
+ActionList/ Event/
+acSave/execute
+
+procedure TfKambaBanks.acSaveExecute(Sender: TObject);
+begin
+  inherited;
+  dmKambaBanks.cdsKambaBanks.Post;
+  eKod.SetFocus;
+end;
+Щом изпълняваме събитието POST на cds, ще се активира събитието cds.AfterPost, Където ще направим ApplyUpdates(0).
+===============================================
+
+в кода на формата ...под implementation имам uses... и под тях добавям 
+resourcestring
+  rInvalidBank = 'Невалиден код на банка';
+  
+  
+
+	  
+	  
+	
+
+
+
+

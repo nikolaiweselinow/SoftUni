@@ -1,0 +1,58 @@
+1. Kernel- New Items - VCl Form
+2. Променям в създадената форма
+	name : винаги започва с "f" пред името e.g. : fNikiTestBanks
+	Save в folder kernel/  с filename: същото като на формата без "f" (не може имаето на файла и името на формата да са
+	с едно и също име!.... e.g. NikiTestBanks).
+
+3.1. F12- Добавяш в uses TonDBForms; и променяш класът на : TTonDBForm ;
+След това влизаш в dfm на файла(ALT + F12) и променяш object на inherited
+
+F12 - влизаш в сорса на формата
+3.2. Изтриваш:
+		var
+		fNikiTestBanks: TfNikiTestBanks;
+3.3. В kernel/KernelMain/ F12 и в uses довавяш формата
+  и в кода : RegisterClass(TfNikiTestBanks);
+  
+4. Kernel - Add new items= Data Module- name: dmNikiTestBanks, filename: dmuNikiTestBanks
+4.1.	var : 
+	dmNikiTestBanks: TdmNikiTestBanks; - Cut i go Paste v PRIVATE часта на формата
+4.2. Примерно искаме от друга формата да извикаме нашата
+var
+  fNB: TfKambaBanks;
+begin
+  inherited;
+
+  fNB := TfKambaBanks(CreateTonForm(self, 'TfKambaTestBanks', FirmNo, TonFirm, Year));
+  try
+    fNB.ShowModal;
+  finally
+    fNB.Free;
+  end;
+
+5. Ако искаме да инициализараме нещо със създаване на формата: примерно да се създава data modula за съответната форма
+го правим с constructor... примерно ако искаме focus на някакво поле... го правим с event/OnShow
+Пишем си конструкторът в public часта
+constructor Create(AOwner: TComponent); override;                      (ctrl+shift+c)
+и се написва
+constructor TfKambaBanks.Create(AOwner: TComponent);
+begin
+  inherited;
+  CreateDM(TdmKambaBanks, dmKambaBanks); // Създаваме си DataModula съответстващ на формата
+end;
+
+
+6. Component= PropsSave - New Component||||| Property
+	ItemName/Component	fKambaBanks |||||| FormPosition
+						
+						 datainspector|||||Items;												
+												
+												
+											
+
+
+
+
+
+  
+	

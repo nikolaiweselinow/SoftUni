@@ -1,0 +1,252 @@
+Никога не се страхувай да правиш това, което не умееш. 
+Помни, че Ноевият ковчег е направен от любители. 
+Професионалистите са построили "Титаник".
+
+===Създаване на форма===
+Kernel--> Add --> New VCL
+Name: fNikiTest
+Ctrl + S : folder/ name : NikiTest
+В USES добавям TonDBForms и променям TfNikiTest = class(TTonDBForm)
+Изтривам 
+var
+  fNikiTest: TfNikiTest;
+ALT + F12(влизам в DFM на файла) и променям object с inherited.
+TonModule : Kernel
+===Създаване на форма===
+
+===PropsSaver===
+New Component||||| Property
+	ItemName/Component	
+		fKambaBanks |||||| FormPosition				
+		datainspector|||||Items;
+						 
+===PropsSaver===
+
+===TonRibbon===
+
+Добавям ActionManager- LinkedActionList добавям нужните ActionLists
+ActionManager- добавям ActionManagera (като го добавя Style : трябва да се промени на SILVER)
+Font: MS Sans Serif,8,[],DEFAULT_CHARSET,clWindowText;
+ScreenTips : Добавям компонент ScreenTipsManager
+ShowHelpButton : False;
+
+===TonRibbon===
+
+
+===ScreenTipsManager===
+LinkedActionList : Свързвам actionlists
+ScreenTips: Добавям 
+	Action : acSearch ;
+	Header : Търсене ;
+===ScreenTipsManager===
+
+===TonDbEdit===
+BorderStyle : BsNone;
+Color : clBtnFace;
+Font : Tahoma, 8, [],DEFAULT_CHARSET,clNavy
+Frame : 
+	Enabled: True; 
+	FocusStyle : efsFrameEtched; 
+	Transperant : true;
+ParrentFont : false;
+===TonDbEdit===
+
+=== Отваряне на нова форма===
+procedure TfBanks_Kernel.acGoToNomExecute(Sender: TObject);
+var
+  fNB: TfKambaBanks;
+begin
+  inherited;
+
+  fNB := TfKambaBanks(CreateTonForm(self, 'TfKambaBanks', FirmNo, TonFirm, Year));
+  try
+    fNB.ShowModal;
+  finally
+    fNB.Free;
+  end;  
+=== Отваряне на нова форма===
+
+=============TTonMTCombo=============
+Name: cbTest;
+----------------------------------------------
+dlgSql: в заданието е дадена!
+	Пишем си заявката :
+		SELECT Code, Name, Name2 
+		FROM TownsAndVillages WITH (NOLOCK)
+		{$W}
+		{$O}
+----------------------------------------------
+dlgSearchFields:
+			Добавяме си три нови...
+			Name: Code, Name, Name2
+			DislpayName : Код, Име, Име 2
+На Name И Name2 маркираме първия и третия checkbox
+AllowPartSearch : true;
+DefaultDescSearch : false;
+DefaultPartSearch : true;
+На name : Visibility : FirstLanguage;
+На name2 : Visibility : SecondLanguage;
+----------------------------------------------
+dlgParamCheck : false (ако нямаме параметри)
+----------------------------------------------
+dlgCaption : както ще се казва новата форма търсене, т.е. : Търсене - Населени места
+----------------------------------------------
+Комбото трябва да си има собствен ClientDataSet, за да има готов път, защото може да имаме много комбота
+В dmuKambaBanks добавяме TTonSqlConnection, TDSProviderConnection, TonClientDataSet
+TTonSqlConnection- ще го ползваме за sql заявки и затова name : sqlSQL
+	Driver : DataSnap
+	Port : 8001
+	LoginPrompt: False
+TDSProviderConnection - pcSQL
+	ServerClassName : TsmSQL (srvuKernel - там се намира този TDSServerClass)
+	SQLConnection : sqlTest;
+	
+TTonClientDataset : 
+		RemoteServer: pcTest   //TDSProviderConnection
+		RemoteServerDS: pcTest //TDSProviderConnection
+		ProviderName : dspSQL;
+--------------------------------------------------
+
+LookupTable: cdsTest;
+LookupMOde : lmCode;
+LookupFiled: Code;
+LookupNameFiled : Name;
+LookupTrNameField: Name2;
+
+Selected натискаме "..." 
+			Махаме отметката "store display...";
+			Code : widht 5
+			Name : widht 10
+			И променяме "Title"
+			
+TonNomenclature : цифра на която номенклатура отговаря комбото.
+GetValueForm : TownsAndVillages(името на таблицата!) 
+Номенклатурите можем да видим 
+				SELECT * FROM ListOfNomenclatures
+				
+Options : 
+	loTitle : True;
+FillLookUpText : True;
+
+DataSource : dmKambaBanks.dsKambaBanks:
+DataFiled : Seat;
+
+На събитието на actiona GoToNomExecute
+извикваме комбото и метода ShowValueSource
+
+	cbTest.ShowValueSource;
+=============TTonMTCombo=============
+
+
+=============TonSearchDialog=============
+Добавяме си компонент в dmuNikiBanks
+	Caption : (както ще се казва самото търсене) - Търсене - Банки
+	DataSet : cdsSearch; (спомагателен cds само за search dialoga)
+	RetValDataSet : (главния cds) cdsNikiBanks
+	RetValSearchFiels : Code;
+	SQL : пишем си заявката	
+		SELECT Code, Name, Name2
+		FROM Banks WITH (NOLOCK)
+		{$W}
+		{$O}
+	SearchFields : Добавяме си колкото са полетата в заявката
+		0-TSearchField : Name : Code; DisplayName : Код;
+		1-TSearchField : Name : Name; DisplayName : Име; Visibility : FirstLanguage; Маркираме 1-я и 3-я CHECKBOX
+		2-TSearchField : Name : Name2; DisplayName : Име2; Visibility : SecondLanguage; Маркираме 1-я и 3-я CHECKBOX
+
+За да се усъществи трябва да си направим мост/връзка за TonSearchDialog. За целта правим следното:
+
+В srv_dmuNikiBanks
+	Добавяме TSqlQuery и само слагаме SQlConnection : sqlc;
+	
+В dmuKambaBanks
+	Добавяме нов TonClientDataSet(празен)
+	Name : cdsSearch;
+	ProviderName : dspSearch;
+	RemoteServer : pc;
+	RemoteServerDS : pc;
+
+
+В smuNikiBanks си добаваме TonDataSetProvider
+	name: dspSearch;
+	options : 	
+		AllowCommandText : True
+	DataSet : свързваме го с празната заявка на сървърът
+И на събитието Create естесвено си добавяме
+  dspSearch.DataSet := srv_dmNikiBanks.qSearch;
+  
+  
+ За да извикам този SearchDialog
+	ACTION LIST - Search, SearchByName, SerachByPartName
+	dmKambaBanks.sdlg.DoSearch(Self, dmKambaBanks.cdsKambaBanksCode);
+  
+=============TonSearchDialog=============
+
+
+====================TonDbGrid=================
+DBGrid- сам ни командва cds и сам прави POST!
+Name: dbgrid
+Align: top;
+DataSource : dmNikiBanks.dsNikiBanks;
+Selected: (или кликаме върху grida)
+	Появяват се всички полета които има в DataSource
+	Там премахваме отметката от StoreDisplay.....
+	И си оправяме ширината и title na полетата
+	Ако искаме няколко полета да са в група- ги слагаме с едно и също GroupName
+	
+	
+Options: 
+		dbTabsExitsOnLastCol : False;
+		
+		
+
+====================TonDbGrid=================
+====================Комбото  v TonDbGrid====================
+allowclearkey : true;
+allowdropdown : true;
+buttoneffects: 
+	flat: true
+	transperant: true;
+Style: DropDownList
+ParentFont : True;
+ParentShowHint : False;
+Options: 
+		loTitle: true;
+		locolline :true;
+		
+На главния cds на полето SEAT събитието ONChange трябва да напиша код, но преди това
+трябва да си добавя към заявката към сървъра другата таблица с LEFT OUTER JOIN
+
+SELECT b.Code, b.BankCode, b.Name, b.Name2, b.[Address], b.Address2,
+  b.BankBranch, b.BankBranch2, b.Seat, t.Name as SeatName, t.Name2 as SeatName2
+FROM Banks b WITH (NOLOCK)
+LEFT OUTER JOIN TownsAndVillages t
+ON t.Code = b.Seat
+ORDER BY Code
+
+Още тук в заявката си правя имената на полетата!
+Добавяме полетата в главната заявка и премахвам всички отметки в ProviderFlags
+Копирам си двете полета и ги добавям в главния cdsNikiBanks
+После добавям полетата в dbgrida и ги правя в обща група например
+Groupname: СЕДАЛИЩЕ
+И Добавяме полетата на едното title: Код, на другото title: Име // оправяме и widht на полетата
+и на cdsNikiBanks полето Seat, EVENT ,ONChange
+
+  if cdsNikiBanks.State in [dsInsert,dsEdit] then begin
+    if cdsNikiBanksSeat.IsNull then
+      cdsNikiBanksSeatName.AsVariant := null
+    else
+      if cdsSeat.FindKey([cdsNikiBanksSeat.AsCurrency]) then
+        cdsNikiBanksSeatName.Value := cdsSeatName.Value;
+  end;
+  
+  
+Ако има "Преход към номенклатура" след ShowValueSource трябва да се направи Refresh на cds... 
+за да може да се опресни полето в грида!  
+
+====================Комбото  v TonDbGrid====================
+
+
+		
+		
+
