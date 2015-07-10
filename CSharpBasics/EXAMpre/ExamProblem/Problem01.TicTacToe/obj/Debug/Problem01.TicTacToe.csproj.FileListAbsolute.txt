@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.TicTacToe\bin\Debug\Problem01.TicTacToe.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.TicTacToe\bin\Debug\Problem01.TicTacToe.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.TicTacToe\bin\Debug\Problem01.TicTacToe.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.TicTacToe\obj\Debug\Problem01.TicTacToe.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem01.TicTacToe\obj\Debug\Problem01.TicTacToe.pdb

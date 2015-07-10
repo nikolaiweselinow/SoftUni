@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Star\bin\Debug\Problem03.Star.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Star\bin\Debug\Problem03.Star.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Star\bin\Debug\Problem03.Star.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Star\obj\Debug\Problem03.Star.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03. Star\obj\Debug\Problem03.Star.pdb

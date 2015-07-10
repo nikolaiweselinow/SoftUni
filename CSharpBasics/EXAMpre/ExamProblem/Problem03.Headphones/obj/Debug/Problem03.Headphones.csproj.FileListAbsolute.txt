@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Headphones\bin\Debug\Problem03.Headphones.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Headphones\bin\Debug\Problem03.Headphones.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Headphones\bin\Debug\Problem03.Headphones.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Headphones\obj\Debug\Problem03.Headphones.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Headphones\obj\Debug\Problem03.Headphones.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Headphones\obj\Debug\Problem03.Headphones.pdb

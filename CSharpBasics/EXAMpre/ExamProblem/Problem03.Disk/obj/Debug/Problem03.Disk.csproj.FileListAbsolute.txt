@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Disk\bin\Debug\Problem03.Disk.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Disk\bin\Debug\Problem03.Disk.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Disk\bin\Debug\Problem03.Disk.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Disk\obj\Debug\Problem03.Disk.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Disk\obj\Debug\Problem03.Disk.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.Disk\obj\Debug\Problem03.Disk.pdb

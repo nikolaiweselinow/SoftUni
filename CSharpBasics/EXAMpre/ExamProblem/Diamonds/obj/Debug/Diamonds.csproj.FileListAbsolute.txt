@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Diamonds\bin\Debug\Diamonds.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Diamonds\bin\Debug\Diamonds.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Diamonds\bin\Debug\Diamonds.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Diamonds\obj\Debug\Diamonds.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Diamonds\obj\Debug\Diamonds.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Diamonds\obj\Debug\Diamonds.pdb

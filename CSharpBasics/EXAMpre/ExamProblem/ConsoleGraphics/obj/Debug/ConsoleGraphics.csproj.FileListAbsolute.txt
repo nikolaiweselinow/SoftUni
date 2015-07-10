@@ -1,0 +1,5 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\ConsoleGraphics\bin\Debug\ConsoleGraphics.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\ConsoleGraphics\bin\Debug\ConsoleGraphics.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\ConsoleGraphics\bin\Debug\ConsoleGraphics.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\ConsoleGraphics\obj\Debug\ConsoleGraphics.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\ConsoleGraphics\obj\Debug\ConsoleGraphics.pdb

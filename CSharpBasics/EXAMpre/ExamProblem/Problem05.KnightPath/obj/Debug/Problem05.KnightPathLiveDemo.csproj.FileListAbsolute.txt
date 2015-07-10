@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem05.KnightPath\bin\Debug\Problem05.KnightPath.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem05.KnightPath\bin\Debug\Problem05.KnightPath.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem05.KnightPath\bin\Debug\Problem05.KnightPath.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem05.KnightPath\obj\Debug\Problem05.KnightPathLiveDemo.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem05.KnightPath\obj\Debug\Problem05.KnightPath.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem05.KnightPath\obj\Debug\Problem05.KnightPath.pdb

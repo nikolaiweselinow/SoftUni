@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.ProgrammerDNA\bin\Debug\Problem03.ProgrammerDNA.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.ProgrammerDNA\bin\Debug\Problem03.ProgrammerDNA.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.ProgrammerDNA\bin\Debug\Problem03.ProgrammerDNA.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.ProgrammerDNA\obj\Debug\Problem03.ProgrammerDNA.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.ProgrammerDNA\obj\Debug\Problem03.ProgrammerDNA.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\Problem03.ProgrammerDNA\obj\Debug\Problem03.ProgrammerDNA.pdb

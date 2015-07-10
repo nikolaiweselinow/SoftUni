@@ -1,0 +1,6 @@
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\TelericCUBEproblem04\bin\Debug\TelericCUBEproblem04.exe.config
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\TelericCUBEproblem04\bin\Debug\TelericCUBEproblem04.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\TelericCUBEproblem04\bin\Debug\TelericCUBEproblem04.pdb
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\TelericCUBEproblem04\obj\Debug\TelericCUBEproblem04.csprojResolveAssemblyReference.cache
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\TelericCUBEproblem04\obj\Debug\TelericCUBEproblem04.exe
+E:\Nikki\SoftUni\CShaprPart1\Exam\ExamProblem\TelericCUBEproblem04\obj\Debug\TelericCUBEproblem04.pdb
